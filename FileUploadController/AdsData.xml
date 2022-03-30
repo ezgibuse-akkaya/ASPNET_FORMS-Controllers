@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisement>
+	<Ad>
+		<ImageUrl>~/Images/google.jpg</ImageUrl>
+		<NavigateUrl>http://google.com</NavigateUrl>
+		<AlternateText>Please Visit http://google.com</AlternateText>
+		<Impressions>10</Impressions>
+		<Keyword>Google</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/Images/youtube.png</ImageUrl>
+		<NavigateUrl>http://youtube.com</NavigateUrl>
+		<AlternateText>Please Visit http://youtube.com</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>Youtube</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/Images/yahoo.png</ImageUrl>
+		<NavigateUrl>http://yahoo.com</NavigateUrl>
+		<AlternateText>Please Visit http://yahoo.com</AlternateText>
+		<Impressions>30</Impressions>
+		<Keyword>Yahoo</Keyword>
+	</Ad>
+</Advertisement>
